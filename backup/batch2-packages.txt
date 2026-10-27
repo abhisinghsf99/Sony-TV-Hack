@@ -1,0 +1,10 @@
+com.android.printspooler
+com.android.gallery3d
+com.android.camera2
+com.sony.dtv.helpguidecontents
+com.sony.dtv.smarthelp
+com.google.android.backdrop
+com.google.android.youtube.tvmusic
+com.spotify.tv.android
+com.peacocktv.peacockandroid
+com.gotv.nflgamecenter.us.lite

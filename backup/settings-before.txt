@@ -1,0 +1,12 @@
+global window_animation_scale=1.0
+global transition_animation_scale=1.0
+global animator_duration_scale=null
+global private_dns_mode=null
+global private_dns_specifier=null
+secure screensaver_components=com.google.android.backdrop/.Backdrop
+secure screensaver_enabled=1
+secure screensaver_default_component=com.google.android.backdrop/.Backdrop
+com.espn.score_center before: No operations.
+Default mode: allow
+com.cbs.ott before: No operations.
+Default mode: allow

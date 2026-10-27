@@ -1,0 +1,22 @@
+.DS_Store
+.claude/settings.local.json
+
+# Personal wallpapers (not redistributable); kept locally only
+Images/
+themes/lockscreen/wallpapers/
+themes/lockscreen/wallpaper.jpg
+
+# Third-party APKs: see downloads/README.md for sources and checksums
+*.apk
+
+# Compiled Swift tools: build with `make` (see README)
+bin/
+
+# Screenshots that show the personal wallpapers
+logs/rot-*.png
+
+# Runtime logs written by scripts/tvlib.sh and monitor.sh
+logs/commands.log
+logs/monitor.pid
+logs/monitor-test.out
+logs/screen.png

@@ -1,0 +1,16 @@
+android.autoinstalls.config.Sony.BRAVIA_VU1
+com.android.camera2
+com.android.gallery3d
+com.android.printspooler
+com.google.android.backdrop
+com.google.android.feedback
+com.google.android.play.games
+com.google.android.tvrecommendations
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.gotv.nflgamecenter.us.lite
+com.peacocktv.peacockandroid
+com.sony.dtv.demo
+com.sony.dtv.helpguidecontents
+com.sony.dtv.smarthelp
+com.spotify.tv.android

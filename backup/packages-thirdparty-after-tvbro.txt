@@ -1,0 +1,8 @@
+package:com.apple.atve.androidtv.appletv
+package:com.cbs.ott
+package:com.espn.score_center
+package:com.gotv.nflgamecenter.us.lite
+package:com.peacocktv.peacockandroid
+package:com.phlox.tvwebbrowser
+package:com.spotify.tv.android
+package:com.wbd.stream

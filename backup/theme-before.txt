@@ -1,0 +1,3 @@
+total 8
+drwxrwx--x 2 u0_a97 sdcard_rw 4096 2026-10-26 13:56 .
+drwxrwx--x 3 u0_a97 sdcard_rw 4096 2026-10-26 13:56 ..
